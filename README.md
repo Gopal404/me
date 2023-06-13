@@ -1,1 +1,1 @@
-# me
+Welcome to my GitHub portfolio! Here you'll find a collection of my projects and contributions that showcase my skills and passion for software development. I'm a dedicated developer with a strong focus on creating innovative solutions and delivering high-quality code.
